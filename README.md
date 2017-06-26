@@ -1,5 +1,5 @@
 # veille2-26juin2017
-* Links : 
+  Links : 
 
 - [SEO](https://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche)
 - [PDF-Google](https://static.googleusercontent.com/media/www.google.com/fr//webmasters/docs/search-engine-optimization-starter-guide.pdf)
